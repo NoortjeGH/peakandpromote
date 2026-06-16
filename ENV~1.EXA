@@ -1,0 +1,5 @@
+# Kopieer dit bestand naar .env en vul je API key in
+ANTHROPIC_API_KEY=sk-ant-xxxxxxxxxxxxxxxxxxxxxxxx
+
+# Optioneel: andere poort (standaard 3000)
+# PORT=3000
